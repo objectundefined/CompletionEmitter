@@ -1,5 +1,5 @@
 {
-  "name": "CompletionEmitter",
+  "name": "completion_emitter",
   "version": "0.0.1",
   "description" : "Track progress of async workflows Implemented using EventEmitter." ,
   "main": "./index.js",

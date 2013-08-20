@@ -1,0 +1,10 @@
+{
+  "name": "CompletionEmitter",
+  "version": "0.0.1",
+  "description" : "Track progress of async workflows Implemented using EventEmitter." ,
+  "main": "./index.js",
+  "homepage":"https://github.com/objectundefined/CompletionEmitter",
+  "repository":"git://github.com/objectundefined/CompletionEmitter.git",
+  "author":"Gabriel Lipson",
+  "dependencies": {}
+}

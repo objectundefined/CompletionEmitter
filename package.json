@@ -1,6 +1,6 @@
 {
   "name": "completion_emitter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description" : "Track progress of async workflows Implemented using EventEmitter." ,
   "main": "./index.js",
   "homepage":"https://github.com/objectundefined/CompletionEmitter",

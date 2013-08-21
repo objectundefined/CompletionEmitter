@@ -5,7 +5,7 @@ function CompletionEmitter ( opts ) {
   this.numSteps = opts && opts.steps || 0 ;
   this.uptickAt = opts && opts.uptickAt || 1 ;
   this.numCompleted = 0 ;
-  this.lastLoggedCompletion = -1 ;
+  this.lastLoggedCompletion = 0 ;
   
 }
 
